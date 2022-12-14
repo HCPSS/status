@@ -1,26 +1,48 @@
-# Change these first
-owner: upptime # Your GitHub organization or username, where this repository lives
-repo: upptime # The name of this repository
+owner: hcpss # Your GitHub organization or username, where this repository lives
+repo: status # The name of this repository
 
 sites:
+  - name: Canvas
+    url: https://hcpss.instructure.com/courses/34447
+  - name: Microsoft
+    url: https://www.office.com/
   - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+    url: https://drive.google.com/
+  - name: Clever
+    url: https://clever.com/in/hcpss/?skip=1&specify_auth=saml
+  - name: Workday
+    url: https://www.myworkday.com/wday/authgwy/hcpss/login.htmld
+  - name: Synergy (Staff)
+    url: https://critical-status.hcpss.org/edupoint-staff
+  - name: Synergy (Students/Parents)
+    url: https://critical-status.hcpss.org/edupoint-parents
+  - name: Duo
+    url: https://api-a01cc0d2.duosecurity.com/
+  - name: S/SAM
+    url: https://sam.hcpss.org/api/docs/
+  - name: Account Self-Service
+    url: https://account.hcpss.org/api/docs/
+  - name: SSO
+    url: https://hcpss.me/saml/saml2/idp/metadata.php
+  - name: Active Directory (HCPSS)
+    url: https://critical-status.hcpss.org/hcpss
+  - name: Active Directory (INST)
+    url: https://critical-status.hcpss.org/inst
+  - name: ADFS
+    url: https://critical-status.hcpss.org/adfs/portal/css/style.css
+
+assignees:
+  - nickadam
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: demo.upptime.js.org
-  # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  # cname: demo.upptime.js.org
+  baseUrl: /status
+  logoUrl: https://raw.githubusercontent.com/HCPSS/upptime/master/assets/hcpss.svg
+  name: Status
+  introTitle: HCPSS Asynchronous Instructional Services Status
+  introMessage: These services are checked once every five minutes. Past incident details are listed at the bottom of the page.
   navbar:
     - title: Status
       href: /
