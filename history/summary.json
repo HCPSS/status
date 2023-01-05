@@ -94,10 +94,10 @@
     "url": "https://critical-status.hcpss.org/edupoint-staff",
     "icon": "https://icons.duckduckgo.com/ip3/critical-status.hcpss.org.ico",
     "slug": "synergy-staff",
-    "status": "up",
+    "status": "down",
     "uptime": "99.91%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "99.91%",
     "uptimeYear": "99.91%",
     "time": 1044,
@@ -106,6 +106,7 @@
     "timeMonth": 1044,
     "timeYear": 1044,
     "dailyMinutesDown": {
+      "2023-01-05": 1,
       "2022-12-22": 8,
       "2022-12-18": 8,
       "2022-12-16": 13
