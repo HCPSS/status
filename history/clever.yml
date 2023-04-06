@@ -1,7 +1,7 @@
 url: https://clever.com/in/hcpss/?skip=1&specify_auth=saml
-status: down
-code: 503
-responseTime: 82
-lastUpdated: 2023-04-06T14:50:23.646Z
+status: up
+code: 200
+responseTime: 836
+lastUpdated: 2023-04-06T14:59:21.486Z
 startTime: Wed Dec 14 2022 19:24:19 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
