@@ -4,18 +4,20 @@
     "url": "https://hcpss.instructure.com/courses/34447",
     "icon": "https://icons.duckduckgo.com/ip3/hcpss.instructure.com.ico",
     "slug": "canvas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 543,
-    "timeDay": 700,
-    "timeWeek": 566,
-    "timeMonth": 542,
-    "timeYear": 543,
-    "dailyMinutesDown": {}
+    "time": 542,
+    "timeDay": 566,
+    "timeWeek": 550,
+    "timeMonth": 539,
+    "timeYear": 542,
+    "dailyMinutesDown": {
+      "2023-04-06": 0
+    }
   },
   {
     "name": "Microsoft",
