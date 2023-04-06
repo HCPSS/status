@@ -60,18 +60,20 @@
     "url": "https://clever.com/in/hcpss/?skip=1&specify_auth=saml",
     "icon": "https://icons.duckduckgo.com/ip3/clever.com.ico",
     "slug": "clever",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 550,
-    "timeDay": 323,
-    "timeWeek": 581,
-    "timeMonth": 485,
-    "timeYear": 550,
-    "dailyMinutesDown": {}
+    "time": 637,
+    "timeDay": 5319,
+    "timeWeek": 1798,
+    "timeMonth": 792,
+    "timeYear": 637,
+    "dailyMinutesDown": {
+      "2023-04-06": 0
+    }
   },
   {
     "name": "Workday",
