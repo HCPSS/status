@@ -4,19 +4,19 @@
     "url": "https://hcpss.instructure.com/courses/34447",
     "icon": "https://icons.duckduckgo.com/ip3/hcpss.instructure.com.ico",
     "slug": "canvas",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 542,
-    "timeDay": 566,
-    "timeWeek": 550,
-    "timeMonth": 539,
-    "timeYear": 542,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.04%",
+    "uptimeWeek": "99.86%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 540,
+    "timeDay": 489,
+    "timeWeek": 526,
+    "timeMonth": 533,
+    "timeYear": 540,
     "dailyMinutesDown": {
-      "2023-04-06": 0
+      "2023-04-06": 14
     }
   },
   {
