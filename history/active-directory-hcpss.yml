@@ -1,7 +1,7 @@
 url: https://critical-status.hcpss.org/hcpss
-status: down
-code: 500
-responseTime: 196
-lastUpdated: 2023-08-10T10:07:20.390Z
+status: up
+code: 200
+responseTime: 84
+lastUpdated: 2023-08-10T10:20:22.142Z
 startTime: Wed Dec 14 2022 19:24:26 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
