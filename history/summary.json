@@ -80,9 +80,9 @@
     "url": "https://www.myworkday.com/wday/authgwy/hcpss/login.htmld",
     "icon": "https://icons.duckduckgo.com/ip3/www.myworkday.com.ico",
     "slug": "workday",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -92,6 +92,7 @@
     "timeMonth": 389,
     "timeYear": 466,
     "dailyMinutesDown": {
+      "2023-08-12": 0,
       "2023-01-24": 9
     }
   },
