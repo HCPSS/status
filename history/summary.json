@@ -62,7 +62,7 @@
     "url": "https://clever.com/in/hcpss/?skip=1&specify_auth=saml",
     "icon": "https://icons.duckduckgo.com/ip3/clever.com.ico",
     "slug": "clever",
-    "status": "up",
+    "status": "down",
     "uptime": "99.96%",
     "uptimeDay": "97.47%",
     "uptimeWeek": "99.64%",
