@@ -1,7 +1,7 @@
 url: https://critical-status.hcpss.org/adfs/portal/css/style.css
-status: up
-code: 200
-responseTime: 40
-lastUpdated: 2023-09-18T23:04:07.625Z
+status: down
+code: 504
+responseTime: 17
+lastUpdated: 2023-09-19T03:44:32.282Z
 startTime: 2022-12-14T19:24:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
