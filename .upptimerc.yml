@@ -28,8 +28,6 @@ sites:
     url: https://critical-status.hcpss.org/hcpss
   - name: Active Directory (INST)
     url: https://critical-status.hcpss.org/inst
-  - name: ADFS
-    url: https://critical-status.hcpss.org/adfs/portal/css/style.css
 
 assignees:
   - nickadam
