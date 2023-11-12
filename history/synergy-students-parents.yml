@@ -1,7 +1,7 @@
 url: https://critical-status.hcpss.org/edupoint-parents
-status: up
-code: 200
-responseTime: 116
-lastUpdated: 2023-11-11T23:04:05.860Z
+status: down
+code: 500
+responseTime: 20071
+lastUpdated: 2023-11-12T19:00:17.224Z
 startTime: 2022-12-14T19:24:22.000Z
 generator: Upptime <https://github.com/upptime/upptime>
