@@ -1,7 +1,7 @@
 url: https://critical-status.hcpss.org/inst
-status: down
-code: 500
-responseTime: 146
-lastUpdated: 2023-12-13T11:10:58.228Z
+status: up
+code: 200
+responseTime: 61
+lastUpdated: 2023-12-13T11:20:28.872Z
 startTime: 2022-12-14T19:24:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
