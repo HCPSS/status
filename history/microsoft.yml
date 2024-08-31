@@ -1,7 +1,7 @@
 url: https://www.office.com/
-status: down
-code: 503
-responseTime: 2848
-lastUpdated: 2024-08-31T16:00:00.521Z
+status: up
+code: 200
+responseTime: 52
+lastUpdated: 2024-08-31T16:10:59.201Z
 startTime: 2022-12-14T19:24:17.000Z
 generator: Upptime <https://github.com/upptime/upptime>
