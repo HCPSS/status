@@ -1,7 +1,7 @@
 url: https://critical-status.hcpss.org/edupoint-staff
-status: down
-code: 500
-responseTime: 20807
-lastUpdated: 2024-09-17T04:55:31.431Z
+status: up
+code: 200
+responseTime: 845
+lastUpdated: 2024-09-17T05:05:40.259Z
 startTime: 2022-12-14T19:24:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
